@@ -5,6 +5,8 @@ public class Testing {
 		String s1="subburaj";
 		System.out.println(s1);
 		
+		String s2="ms dhoni";
+		System.out.println(s2);
 	}
 
 }
