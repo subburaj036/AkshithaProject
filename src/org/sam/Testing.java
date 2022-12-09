@@ -8,6 +8,12 @@ public class Testing {
 		int a=10;
 		System.out.println(a);
 		
+		String s2="ms dhoni";
+		System.out.println(s2);
+
+		
+		
+
 	}
 
 }
